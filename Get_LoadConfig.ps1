@@ -36,7 +36,7 @@ $MyConfPath      = $MyScriptPath + "\Config\config.xml"
 
 You can change the variable name and the path if you want.
 
-After adding this 2 line you can lot you configuration with this code 
+After adding this 2 line you can load your configuration with this code 
 
 # Load Configuration 
 $MyLoadConf = $MYFunctionPath +"\"+ "Get_LoadConfig.ps1"
